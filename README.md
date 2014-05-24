@@ -9,4 +9,11 @@ For instructions on how to set-up your raspberry pi from scratch follow my previ
 
 ###Putting everything together
 
+These python 2.7 libraries are needed:
+
+sys
+os
+urllib2
+json
+subprocess
 
