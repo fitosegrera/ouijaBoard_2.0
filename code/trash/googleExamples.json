@@ -1,0 +1,89 @@
+{
+   "responseData":{
+      "results":[
+         {
+            "GsearchResultClass":"GwebSearch",
+            "unescapedUrl":"http://en.wikipedia.org/wiki/Adolf_Hitler",
+            "url":"http://en.wikipedia.org/wiki/Adolf_Hitler",
+            "visibleUrl":"en.wikipedia.org",
+            "cacheUrl":"http://www.google.com/search?q\u003dcache:3OUjskIOK6EJ:en.wikipedia.org",
+            "title":"Adolf \u003cb\u003eHitler\u003c/b\u003e - Wikipedia, the free encyclopedia",
+            "titleNoFormatting":"Adolf Hitler - Wikipedia, the free encyclopedia",
+            "content":"Adolf \u003cb\u003eHitler\u003c/b\u003e (German: [ˈadɔlf ˈhɪtlɐ] ( listen); 20 April 1889 – 30 April 1945) \nwas an Austrian-born German politician and the leader of the Nazi Party (German\n: ..."
+         },
+         {
+            "GsearchResultClass":"GwebSearch",
+            "unescapedUrl":"http://www.biography.com/people/adolf-hitler-9340144",
+            "url":"http://www.biography.com/people/adolf-hitler-9340144",
+            "visibleUrl":"www.biography.com",
+            "cacheUrl":"http://www.google.com/search?q\u003dcache:ulOwy2cidr4J:www.biography.com",
+            "title":"Adolf \u003cb\u003eHitler\u003c/b\u003e Biography - Facts, Birthday, Life Story - Biography.com",
+            "titleNoFormatting":"Adolf Hitler Biography - Facts, Birthday, Life Story - Biography.com",
+            "content":"Get more on the rise of Fascism in Europe and the life of Adolf \u003cb\u003eHitler\u003c/b\u003e, one of \nhistory\u0026#39;s most notorious dictators, at Biography.com."
+         },
+         {
+            "GsearchResultClass":"GwebSearch",
+            "unescapedUrl":"http://www.jewishvirtuallibrary.org/jsource/Holocaust/hitler.html",
+            "url":"http://www.jewishvirtuallibrary.org/jsource/Holocaust/hitler.html",
+            "visibleUrl":"www.jewishvirtuallibrary.org",
+            "cacheUrl":"http://www.google.com/search?q\u003dcache:l924Xhfdi84J:www.jewishvirtuallibrary.org",
+            "title":"Adolf \u003cb\u003eHitler\u003c/b\u003e | Jewish Virtual Library",
+            "titleNoFormatting":"Adolf Hitler | Jewish Virtual Library",
+            "content":"Adolf \u003cb\u003eHitler\u003c/b\u003e (1889-1945) was the founder and leader of the Nazi Party and the \nmost influential voice in the organization, implementation and execution of the ..."
+         },
+         {
+            "GsearchResultClass":"GwebSearch",
+            "unescapedUrl":"http://www.historyplace.com/worldwar2/riseofhitler/",
+            "url":"http://www.historyplace.com/worldwar2/riseofhitler/",
+            "visibleUrl":"www.historyplace.com",
+            "cacheUrl":"http://www.google.com/search?q\u003dcache:iE079BxbgucJ:www.historyplace.com",
+            "title":"The History Place - The Rise of Adolf \u003cb\u003eHitler\u003c/b\u003e: Chapter Index",
+            "titleNoFormatting":"The History Place - The Rise of Adolf Hitler: Chapter Index",
+            "content":"A complete history - The Rise of Adolf \u003cb\u003eHitler\u003c/b\u003e from Unknown to Dictator of \nGermany, text and photos."
+         }
+      ],
+      "cursor":{
+         "resultCount":"11,300,000",
+         "pages":[
+            {
+               "start":"0",
+               "label":1
+            },
+            {
+               "start":"4",
+               "label":2
+            },
+            {
+               "start":"8",
+               "label":3
+            },
+            {
+               "start":"12",
+               "label":4
+            },
+            {
+               "start":"16",
+               "label":5
+            },
+            {
+               "start":"20",
+               "label":6
+            },
+            {
+               "start":"24",
+               "label":7
+            },
+            {
+               "start":"28",
+               "label":8
+            }
+         ],
+         "estimatedResultCount":"11300000",
+         "currentPageIndex":0,
+         "moreResultsUrl":"http://www.google.com/search?oe\u003dutf8\u0026ie\u003dutf8\u0026source\u003duds\u0026start\u003d0\u0026hl\u003den\u0026q\u003dHitler",
+         "searchResultTime":"0.17"
+      }
+   },
+   "responseDetails":null,
+   "responseStatus":200
+}

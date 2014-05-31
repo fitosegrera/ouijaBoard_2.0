@@ -5,7 +5,7 @@
 #Sensitivity is set to 1%.
 
 echo "Recording..."
-sox -r 16000 -t alsa default voice.flac silence 1 0.1 1% 1 1.5 1%
+sox -r 16000 -t alsa default voice.flac silence 1 0.1 5% 1 1.0 5%
 
 
 
